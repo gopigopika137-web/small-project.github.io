@@ -1,0 +1,84 @@
+*{
+padding: 0;
+margin: 0;
+}
+nav{
+    background-color: black;
+    color: aliceblue;
+    padding: 15px;
+}
+ul,li,h1{
+    display: inline;
+}
+ul{
+    color: blue;
+    margin-left: 700px;
+    
+}
+li:hover{
+color: aliceblue;
+
+}
+li{
+    cursor: pointer;
+}
+   input{
+        padding:15px;
+        width: 60%;
+        margin: 20px}
+        .two{
+            text-align: center;
+        }
+        .pic1{
+            border-color: black;
+            border-width: 2px;
+            border-style: solid;
+            width:200px;
+            margin-left: 50px;
+            padding:10px;
+            display: inline-block;
+        }
+        .pic2{
+            border-color: black;
+            border-width: 2px;
+            border-style: solid;
+            width:300px;
+            margin-left: 50px;
+            padding:10px;
+            display: inline-block;
+        }
+        .pic3{
+
+            border-color: black;
+            border-width: 2px;
+            border-style: solid;
+            width:300px;
+            margin-left: 50px;
+            padding:10px;
+            display: inline-block;
+        }
+          .three{text-align: center;
+        }
+        .three :hover  {
+          color: aliceblue;
+            background-color: brown;
+        }
+        .four{
+            margin-top: 20px;
+            padding: 30px;
+
+        }
+        .content{
+            text-align: center;
+            background-color: black;
+            border-color: aliceblue;
+            border-width: 2px;
+            border-style: solid;
+            color: aliceblue;
+            width: 900px;
+            margin-top: 30px;
+            margin-left: 200px;
+        }
+    
+            
+    
